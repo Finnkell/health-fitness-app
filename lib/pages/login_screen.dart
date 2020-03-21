@@ -1,4 +1,6 @@
 import 'package:flutter/material.dart';
+
+import 'home_screen.dart';
 import 'package:health_fitness_app/constants.dart';
 import 'package:health_fitness_app/indicator.dart';
 
