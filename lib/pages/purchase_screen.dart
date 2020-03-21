@@ -64,7 +64,7 @@ class PurchaseScreen extends StatelessWidget {
           CustomOptionButton(
             isActive: true, 
             color: 0xfffff1ef, 
-            text: '56.00 / Yeat'
+            text: '56.00 / Yearly'
           ),
           SizedBox(
             height: 20,
